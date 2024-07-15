@@ -1,0 +1,4 @@
+cohere
+pandas
+python-dotenv
+colorama
