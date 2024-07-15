@@ -38,7 +38,11 @@ Make sure you have these files in the same folder:
 2. Sign up for an account
 3. Once logged in, find your API key in your account settings
 
-### Step 5: Run the Dataset Expander
+### Step 5: Rename the .env file
+
+1. Rename .env.copy to .env after filling the API Key field.
+
+### Step 6: Run the Dataset Expander
 
 1. In the terminal or command prompt, run:
 
@@ -47,7 +51,6 @@ Make sure you have these files in the same folder:
    ```
 
 2. Follow the prompts:
-   - Enter your Cohere API key when asked
    - Provide the path to your CSV file
    - Specify how many rows you want in your expanded dataset
 
